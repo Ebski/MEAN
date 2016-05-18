@@ -6,10 +6,17 @@ mongoose.connect("mongodb://localhost/contactlist");
 var Schema = mongoose.Schema;
 
 var contactSchema = new Schema({
-    name: String,
+    name: {
+        type: String,
+        required: true
+    },
     email: String,
-    number: String
+    number: String,
+    created: {
+        type: Date,
+        default: Date.now
+    }
 });
 
-var Contact = mongoose.model("Contact", contactSchema);
+var Contact = mongoose.model("contactlist", contactSchema);
 module.exports = Contact;
