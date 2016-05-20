@@ -2,6 +2,9 @@
 This project will be updated until the mean exam and will "hopefully" include all the questions in the end. Remeber to run "npm install" before checking out a project
 
 #### Period 1a
+- Includes a word document where questions are answered
+- Includes a Project called examples
+- Still need a couple of questions to be answered
 
 #### Period 1b
 
