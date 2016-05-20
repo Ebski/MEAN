@@ -12,6 +12,9 @@ This project will be updated until the mean exam and will "hopefully" include al
 #### Period 2c
 
 #### Period 3
+- Includes a word document where questions are answered
+- Includes a Project called RestAPI. A full mean application, with a working REST api. All CRUD methods are tested [link](https://github.com/Ebski/MEAN/tree/master/Period3/RestAPI)
+- Still needs a Reddit project
 
 #### Period 3a
 - Includes a word document where questions are answered
