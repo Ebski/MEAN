@@ -8,24 +8,19 @@ app.use(bodyParser.json());
 
 //CRUD GET request
 app.get('/contactlist', function (req, res) {
-    console.log('I received a GET request');
-
     Contact.find(function (err, docs) {
         res.json(docs);
     });
-
 });
 
 //CRUD POST request
 app.post('/contactlist', function (req, res) {
-    console.log('I received a POST request');
-    console.log(req.body);
 
     var newContact = new Contact({
         name: req.body.name,
         email: req.body.email,
         number: req.body.number
-    })
+    });
 
     newContact.save(function (err, doc) {
         res.json(doc);
@@ -35,7 +30,6 @@ app.post('/contactlist', function (req, res) {
 //CRUD DELETE request
 app.delete('/contactlist/:id', function (req, res) {
     var id = req.params.id;
-    console.log(id);
 
     Contact.remove({_id: id}, function (err, doc) {
         res.json(doc);
@@ -44,16 +38,15 @@ app.delete('/contactlist/:id', function (req, res) {
 
 app.get('/contactlist/:id', function (req, res) {
     var id = req.params.id;
-    console.log(id);
 
     Contact.findOne({_id: id}, function (err, doc) {
         res.json(doc);
     })
 });
 
+//CRUD UPDATE request
 app.put('/contactlist/:id', function (req, res) {
     var id = req.params.id;
-    console.log(req.body.name);
 
     Contact.findOneAndUpdate({_id: id},
         {$set: {name: req.body.name, email: req.body.email, number: req.body.number}}, function (err, doc) {
@@ -61,6 +54,4 @@ app.put('/contactlist/:id', function (req, res) {
         })
 
 });
-
-app.listen(3000);
-console.log('Server running on localhost:3000')
+module.exports = app;
