@@ -3,10 +3,12 @@ This project will be updated until the mean exam and will "hopefully" include al
 
 #### Period 1a
 - Includes a word document where questions are answered
-- Includes a Project called examples
+- Includes a Project called examples [link](https://github.com/Ebski/MEAN/tree/master/Period1a/Examples)
 - Still need a couple of questions to be answered
 
 #### Period 1b
+- Includes a word document where questions are answered
+- Includes a Project called examples [link](https://github.com/Ebski/MEAN/tree/master/Period2b/examples)
 
 #### Period 2a
 
@@ -22,7 +24,7 @@ This project will be updated until the mean exam and will "hopefully" include al
 #### Period 3a
 - Includes a word document where questions are answered
 - Includes a project called RestAPI where all CRUD operations are shown in a simple ui. Connected to a MongoDB [link](https://github.com/Ebski/MEAN/tree/master/Period3a/RestAPI)
-- Includes a project called SimpleRestAPI where all CRUD operations are shown without a ui, so to test use a program like Postman. This is not connected to a DB but is a project to show off the module for node: node-restful.[link](https://github.com/Ebski/MEAN/tree/master/Period3a/SimpleRestfullAPI)
+- Includes a project called SimpleRestAPI where all CRUD operations are shown without a ui, so to test use a program like Postman. This project is mainly made to show of the module node-restful. [link](https://github.com/Ebski/MEAN/tree/master/Period3a/SimpleRestfullAPI)
 
 #### Period 3b
 - Includes a word document where questions are answered
