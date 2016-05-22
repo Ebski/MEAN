@@ -9,8 +9,8 @@ This project will be updated until the mean exam and will "hopefully" include al
 #### Period 1b
 - Includes a word document where questions are answered
 - Includes a Project called examples [link](https://github.com/Ebski/MEAN/tree/master/Period2b/examples)
-- Includes a Project called fabonacci. This is a Node.js module I created [link](https://github.com/Ebski/MEAN/tree/master/Period2b/fabonacci)
-- Includes a Project called fabonacci-client. This is to test out the fabonacci module [link](https://github.com/Ebski/MEAN/tree/master/Period2b/fabonacci-client)
+- Includes a Project called calculater. This is a Node.js module I created [link](https://github.com/Ebski/MEAN/tree/master/Period2b/calculater)
+- Includes a Project called calculater-client. This is to test out the calculater module [link](https://github.com/Ebski/MEAN/tree/master/Period2b/calculater-client)
 
 #### Period 2a
 
