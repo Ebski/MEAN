@@ -1,0 +1,13 @@
+{
+  "name": "calculater-client",
+  "version": "1.0.0",
+  "description": "calculater-client",
+  "main": "calculater-test",
+  "author": "Ebbe",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "calculater": "file:..\\calculater"
+  }
+}

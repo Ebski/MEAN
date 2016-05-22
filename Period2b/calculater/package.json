@@ -1,0 +1,10 @@
+{
+  "name": "calculater",
+  "version": "1.0.0",
+  "description": "calculater",
+  "main": "calculater",
+  "author": "Ebbe",
+  "engines":{
+    "node":"*"
+  }
+}
