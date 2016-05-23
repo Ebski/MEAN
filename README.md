@@ -1,5 +1,6 @@
 ## MEAN all exam question
 This project will be updated until the mean exam and will "hopefully" include all the questions in the end. Remeber to run "npm install" before checking out a project
+The exam questions [link](https://fronter.com/cphbusiness/links/files.phtml/2126339921$296954025$/Arkiv/4.+semester/Elective+subjects+-+Valgfag+spring+2016/MEAN/Exam+Questions/ExamQuestionsAll.pdf)
 
 #### Period 1a
 - Includes a word document where questions are answered
@@ -39,6 +40,9 @@ This project will be updated until the mean exam and will "hopefully" include al
 #### Period 5a
 
 #### Period 5b
+- Includes a word document where no question is answered yet
+- Includes a project called socket_chat_server [link](https://github.com/Ebski/MEAN/tree/master/Period5b/Sockets_Chat_Server)
+- Includes a project called firebase_chat_server [link](https://github.com/Ebski/MEAN/tree/master/Period5b/Firebase_Chat_Server)
 
 #### Period 6a
 
