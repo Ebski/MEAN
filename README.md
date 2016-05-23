@@ -38,9 +38,12 @@ The exam questions [link](https://fronter.com/cphbusiness/links/files.phtml/2126
 #### Period 4b
 
 #### Period 5a
+- Includes a word document where questions are answered
+- Includes a project called Socket_Chat_Server [link](https://github.com/Ebski/MEAN/tree/master/Period5a/Sockets_Chat_Server)
+- Includes a project called Firebase_Chat_Server [link](https://github.com/Ebski/MEAN/tree/master/Period5a/Firebase_Chat_Server)
 
 #### Period 5b
-- Includes a word document where no question is answered yet
+- Includes a word document where questions are answered
 - Includes a project called socket_chat_server [link](https://github.com/Ebski/MEAN/tree/master/Period5b/Sockets_Chat_Server)
 - Includes a project called firebase_chat_server [link](https://github.com/Ebski/MEAN/tree/master/Period5b/Firebase_Chat_Server)
 
