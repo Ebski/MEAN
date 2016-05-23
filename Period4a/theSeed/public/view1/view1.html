@@ -1,0 +1,37 @@
+<form>
+    <input type="text" ng-model="user.username" placeholder="Username"/>
+    <input type="password" ng-model="user.password" placeholder="Password"/>
+    <input type="button" value="Submit" ng-click="login()"/>
+
+    <table class="table">
+        <thead>
+        <tr>
+            <th>username</th>
+            <th>token</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>{{user.username}}</td>
+            <td>{{user.token}}</td>
+        </tr>
+        </tbody>
+    </table>
+</form>
+
+<form>
+    <input type="button" value="GetProtectedAPI" ng-click="getName()"/>
+
+    <table class="table">
+        <thead>
+        <tr>
+            <th>name</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="users in userlist">
+            <td>{{users.name}}</td>
+        </tr>
+        </tbody>
+    </table>
+</form>
