@@ -34,8 +34,12 @@ The exam questions [link](https://fronter.com/cphbusiness/links/files.phtml/2126
 - Incldues a project called RestAPI. Same project as in period 3a. [link](https://github.com/Ebski/MEAN/tree/master/Period3b/RestAPI)
 
 #### Period 4a
+- Includes a word document where questions are answered
+- Includes a project called theSeed. The project hashes and salts passwords and generates jwt for authorization [link](https://github.com/Ebski/MEAN/tree/master/Period4a/theSeed)
 
 #### Period 4b
+- Includes a word document where questions are answered
+- Includes a project called theSeed. The project hashes and salts passwords and generates jwt for authorization [link](https://github.com/Ebski/MEAN/tree/master/Period4b/theSeed)
 
 #### Period 5a
 - Includes a word document where questions are answered
