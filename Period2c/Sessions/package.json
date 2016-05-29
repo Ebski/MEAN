@@ -1,0 +1,20 @@
+{
+  "name": "sessions",
+  "version": "1.0.0",
+  "description": "using sessions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "session",
+    "cookies"
+  ],
+  "author": "Ebbe",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0"
+  }
+}
