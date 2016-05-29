@@ -6,6 +6,7 @@ angular.module("app", [
         socket.connect();
         var scope = this;
         scope.tester = "Welcome";
+        alert(scope.tester);
         scope.messageList = [];
         scope.userList = [];
 
