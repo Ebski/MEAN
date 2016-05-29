@@ -21,6 +21,10 @@ The exam questions [link](https://fronter.com/cphbusiness/links/files.phtml/2126
 #### Period 2b
 
 #### Period 2c
+- Includes a word document where questions are answered
+- Includes a Project called Cluster [link](https://github.com/Ebski/MEAN/tree/master/Period2c/Cluster)
+- Ïncludes a Project called Middleware [link](https://github.com/Ebski/MEAN/tree/master/Period2c/Middleware)
+- Includes a project called Sessions [link](https://github.com/Ebski/MEAN/tree/master/Period2c/Sessions)
 
 #### Period 3
 - Includes a word document where questions are answered
