@@ -14,11 +14,13 @@ The exam questions [link](https://fronter.com/cphbusiness/links/files.phtml/2126
 - Includes a Project called calculater-client. This is to test out the calculater module [link](https://github.com/Ebski/MEAN/tree/master/Period2b/calculater-client)
 
 #### Period 2a
-- Includes a word document where questions are asnwered
+- Includes a word document where questions are answered
 - Includes a Project called Middleware where a few custom middlewares are used, and errors are thrown through middleware [link](https://github.com/Ebski/MEAN/tree/master/Period2a/Middleware)
 - Includes a Project called Sessions where storing values in sessions are shown [link](https://github.com/Ebski/MEAN/tree/master/Period2a/Sessions)
 
 #### Period 2b
+- Includes a word document where questions are answered
+- Includes a project called RestAPI [link](https://github.com/Ebski/MEAN/tree/master/Period2b/RestAPI)
 
 #### Period 2c
 - Includes a word document where questions are answered
